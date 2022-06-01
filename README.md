@@ -1,6 +1,4 @@
 # DL2
-Здесь появится ссылка на Kaggle Kernel, как только я его доделаю
+Cсылка на Kaggle Kernel:
 
-Надеюсь успеть к 20
-
-Извините за небольшую задержку, пожалуйста
+https://www.kaggle.com/gooseit/ilyuhin-317-dl-homework-2/
